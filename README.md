@@ -75,13 +75,23 @@ endmodule
 ```
 
 Developed by: KOUSALYA A.
-RegisterNumber: 212222230068  
+RegisterNumber: 212222230068
+
+
+
+Truth table:
+![Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-](gate.png)
+
+![Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-](tt.png)
 
 Output:
 ![Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-](w1.png)
 
  RTL:
 ![Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-](d1.png)
+
+
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
